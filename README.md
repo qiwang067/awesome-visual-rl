@@ -38,6 +38,8 @@ Feel free to share this list with others! 🥳🥳🥳
 **`ICLR 2022`** [**DrQ-v2**] Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning [[Paper](https://arxiv.org/pdf/2107.09645)][[Torch Code](https://github.com/facebookresearch/drqv2)]
 
 ## 2021
+**`ICLR 2021 Spotlight`** [**DrQ**] Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels  [[Paper](https://arxiv.org/pdf/2004.13649)][[Torch Code](https://github.com/denisyarats/drq)]
+
 **`ICLR 2021`** [**DreamerV2**] Mastering Atari with Discrete World Models [[Paper](https://arxiv.org/pdf/2010.02193)][[TF Code](https://github.com/danijar/dreamerv2)][[Torch Code](https://github.com/jsikyoon/dreamer-torch)]
 
 
