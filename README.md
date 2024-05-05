@@ -50,6 +50,9 @@ Feel free to share this list with others! 🥳🥳🥳
 **`ICLR 2020`** [**DreamerV1**] Dream to Control: Learning Behaviors by Latent Imagination [[Paper](https://arxiv.org/pdf/1912.01603)][[TF Code](https://github.com/danijar/dreamer)][[Torch Code](https://github.com/juliusfrost/dreamer-pytorch)]
 
 
+**`ICML 2020`** [**Plan2Explore**] Planning to Explore via Self-Supervised World Models [[Paper](https://arxiv.org/pdf/2005.05960)][[TF Code](https://github.com/ramanans1/plan2explore)][[Torch Code](https://github.com/yusukeurakami/plan2explore-pytorch)]
+
+
 
 <!-- ## Survey
 
