@@ -2,7 +2,7 @@
 
 Collect some Visual Reinforcement Learning papers. 
 
-If you find some ignored papers, **feel free to [*open issues*](https://github.com/qiwang067/awesome-visual-rl/issues/new), or [*email* me](mailto:qiwang067@sjtu.edu.cn)**. Contributions in any form to make this list more comprehensive are welcome. 📣📣📣
+If you find some ignored papers, **feel free to [*open issues*](https://github.com/qiwang067/awesome-visual-rl/issues/new), or [*email* Qi Wang](mailto:qiwang067@163.com) / [GuoZheng Ma](mailto:guozheng_ma@163.com)**. Contributions in any form to make this list more comprehensive are welcome. 📣📣📣
 
 If you find this repository useful, please consider **[citing](#citation)** and **giving us a star** 🌟. 
 
@@ -30,6 +30,9 @@ Feel free to share this list with others! 🥳🥳🥳
   > World models are the basis for the ability to predict what might happen next, which is fundamentally important for autonomous driving. They can act as a learned simulator, or a mental “what if” thought experiment for model-based reinforcement learning (RL) or planning. By incorporating world models into our driving models, we can enable them to understand human decisions better and ultimately generalise to more real-world situations. -->
   
 ## 2023
+
+**`arXiv 2023.8`** [**Dynalang**] Learning to Model the World with Language. [[Paper](https://arxiv.org/pdf/2308.01399)] [[JAX Code](https://github.com/jlin816/dynalang)]
+
 **`arXiv 2023.5`** [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2305.15260)]
 
 **`arXiv 2023.1`** [**DreamerV3**] Mastering Atari with Discrete World Models [[Paper](https://arxiv.org/pdf/2301.04104)][[JAX Code](https://github.com/danijar/dreamerv3)][[Torch Code](https://github.com/NM512/dreamerv3-torch)]
@@ -53,6 +56,10 @@ Feel free to share this list with others! 🥳🥳🥳
 **`ICLR 2020`** [**DreamerV1**] Dream to Control: Learning Behaviors by Latent Imagination [[Paper](https://arxiv.org/pdf/1912.01603)][[TF Code](https://github.com/danijar/dreamer)][[Torch Code](https://github.com/juliusfrost/dreamer-pytorch)]
 
 
+**`ICML 2020`** [**Plan2Explore**] Planning to Explore via Self-Supervised World Models [[Paper](https://arxiv.org/pdf/2005.05960)][[TF Code](https://github.com/ramanans1/plan2explore)][[Torch Code](https://github.com/yusukeurakami/plan2explore-pytorch)]
+
+## 2018
+**`NIPS 2018 Oral`** World Models. [[Paper](https://arxiv.org/pdf/1803.10122)]
 
 <!-- ## Survey
 
