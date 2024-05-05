@@ -2,7 +2,7 @@
 
 Collect some Visual Reinforcement Learning papers. 
 
-If you find some ignored papers, **feel free to [*open issues*](https://github.com/qiwang067/awesome-visual-rl/issues/new), or [*email* me](mailto:qiwang067@sjtu.edu.cn)**. Contributions in any form to make this list more comprehensive are welcome. 📣📣📣
+If you find some ignored papers, **feel free to [*open issues*](https://github.com/qiwang067/awesome-visual-rl/issues/new), or [*email* Qi Wang](mailto:qiwang067@sjtu.edu.cn) / [GuoZheng Ma](mailto:guozheng_ma@163.com)**. Contributions in any form to make this list more comprehensive are welcome. 📣📣📣
 
 If you find this repository useful, please consider **[citing](#citation)** and **giving us a star** 🌟. 
 
