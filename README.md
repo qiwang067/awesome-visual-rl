@@ -16,7 +16,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [`CVPR 2023 Workshop on Autonomous Driving`](https://cvpr2023.wad.vision/) CHALLENGE 3: ARGOVERSE CHALLENGES, [3D Occupancy Forecasting](https://eval.ai/web/challenges/challenge-page/1977/overview) using the [Argoverse 2 Sensor Dataset](https://www.argoverse.org/av2.html#sensor-link). Predict the spacetime occupancy of the world for the next 3 seconds. -->
 
 ## Papers
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Model-Based$\quad$![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Model-Free
+![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Model-Based &nbsp; ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Model-Free
 
 <!-- ### World model original paper
 
