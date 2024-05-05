@@ -117,4 +117,5 @@ Feel free to share this list with others! 🥳🥳🥳
 - Planning with an Ensemble of World Models. **`OpenReview`** [[Paper](https://openreview.net/forum?id=cvGdPXaydP)]
 - [**WorldDreamer**] WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens. **`2024.1, arxiv`** [[Paper](https://arxiv.org/abs/2401.09985)] [[Code](https://github.com/JeffWang987/WorldDreamer)] -->
 
+<p align="right">(<a href="#top">Back to top</a>)</p>
 
