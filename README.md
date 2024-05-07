@@ -16,7 +16,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - [`CVPR 2023 Workshop on Autonomous Driving`](https://cvpr2023.wad.vision/) CHALLENGE 3: ARGOVERSE CHALLENGES, [3D Occupancy Forecasting](https://eval.ai/web/challenges/challenge-page/1977/overview) using the [Argoverse 2 Sensor Dataset](https://www.argoverse.org/av2.html#sensor-link). Predict the spacetime occupancy of the world for the next 3 seconds. -->
 
 ## Papers
-![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Model-Based &nbsp; ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Model-Free
+:large_blue_diamond: Model-Based &nbsp; :large_orange_diamond: Model-Free
 
 <!-- ### World model original paper
 
@@ -31,31 +31,31 @@ Feel free to share this list with others! 🥳🥳🥳
   > World models are the basis for the ability to predict what might happen next, which is fundamentally important for autonomous driving. They can act as a learned simulator, or a mental “what if” thought experiment for model-based reinforcement learning (RL) or planning. By incorporating world models into our driving models, we can enable them to understand human decisions better and ultimately generalise to more real-world situations. -->
   
 ## 2023
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **`arXiv 2023.8`** [**Dynalang**] Learning to Model the World with Language. [[Paper](https://arxiv.org/pdf/2308.01399)] [[JAX Code](https://github.com/jlin816/dynalang)]
+- :large_blue_diamond: **`arXiv 2023.8`** [**Dynalang**] Learning to Model the World with Language. [[Paper](https://arxiv.org/pdf/2308.01399)] [[JAX Code](https://github.com/jlin816/dynalang)]
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **`arXiv 2023.5`** [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2305.15260)]
+- :large_blue_diamond: **`arXiv 2023.5`** [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2305.15260)]
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **`arXiv 2023.1`** [**DreamerV3**] Mastering Atari with Discrete World Models [[Paper](https://arxiv.org/pdf/2301.04104)][[JAX Code](https://github.com/danijar/dreamerv3)][[Torch Code](https://github.com/NM512/dreamerv3-torch)]
+- :large_blue_diamond: **`arXiv 2023.1`** [**DreamerV3**] Mastering Atari with Discrete World Models [[Paper](https://arxiv.org/pdf/2301.04104)][[JAX Code](https://github.com/danijar/dreamerv3)][[Torch Code](https://github.com/NM512/dreamerv3-torch)]
 
 ## 2022
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **`NIPS 2022`**  Deep Hierarchical Planning from Pixels.  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)][[TF Code](https://github.com/danijar/director)]
+- :large_blue_diamond: **`NIPS 2022`**  Deep Hierarchical Planning from Pixels.  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)][[TF Code](https://github.com/danijar/director)]
 
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **`ICLR 2022`** [**DrQ-v2**] Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning [[Paper](https://arxiv.org/pdf/2107.09645)][[Torch Code](https://github.com/facebookresearch/drqv2)]
+- :large_orange_diamond: **`ICLR 2022`** [**DrQ-v2**] Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning [[Paper](https://arxiv.org/pdf/2107.09645)][[Torch Code](https://github.com/facebookresearch/drqv2)]
 
 ## 2021
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **`ICLR 2021 Spotlight`** [**DrQ**] Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels  [[Paper](https://arxiv.org/pdf/2004.13649)][[Torch Code](https://github.com/denisyarats/drq)]
+- :large_orange_diamond: **`ICLR 2021 Spotlight`** [**DrQ**] Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels  [[Paper](https://arxiv.org/pdf/2004.13649)][[Torch Code](https://github.com/denisyarats/drq)]
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **`ICLR 2021`** [**DreamerV2**] Mastering Atari with Discrete World Models [[Paper](https://arxiv.org/pdf/2010.02193)][[TF Code](https://github.com/danijar/dreamerv2)][[Torch Code](https://github.com/jsikyoon/dreamer-torch)]
+- :large_blue_diamond: **`ICLR 2021`** [**DreamerV2**] Mastering Atari with Discrete World Models [[Paper](https://arxiv.org/pdf/2010.02193)][[TF Code](https://github.com/danijar/dreamerv2)][[Torch Code](https://github.com/jsikyoon/dreamer-torch)]
 
 ## 2020
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **`ICLR 2020`** [**DreamerV1**] Dream to Control: Learning Behaviors by Latent Imagination [[Paper](https://arxiv.org/pdf/1912.01603)][[TF Code](https://github.com/danijar/dreamer)][[Torch Code](https://github.com/juliusfrost/dreamer-pytorch)]
+- :large_blue_diamond: **`ICLR 2020`** [**DreamerV1**] Dream to Control: Learning Behaviors by Latent Imagination [[Paper](https://arxiv.org/pdf/1912.01603)][[TF Code](https://github.com/danijar/dreamer)][[Torch Code](https://github.com/juliusfrost/dreamer-pytorch)]
 
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **`ICML 2020`** [**Plan2Explore**] Planning to Explore via Self-Supervised World Models [[Paper](https://arxiv.org/pdf/2005.05960)][[TF Code](https://github.com/ramanans1/plan2explore)][[Torch Code](https://github.com/yusukeurakami/plan2explore-pytorch)]
+- :large_blue_diamond: **`ICML 2020`** [**Plan2Explore**] Planning to Explore via Self-Supervised World Models [[Paper](https://arxiv.org/pdf/2005.05960)][[TF Code](https://github.com/ramanans1/plan2explore)][[Torch Code](https://github.com/yusukeurakami/plan2explore-pytorch)]
 
 ## 2018
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **`NIPS 2018 Oral`** World Models. [[Paper](https://arxiv.org/pdf/1803.10122)]
+- :large_blue_diamond: **`NIPS 2018 Oral`** World Models. [[Paper](https://arxiv.org/pdf/1803.10122)]
 
 <!-- ## Survey
 
