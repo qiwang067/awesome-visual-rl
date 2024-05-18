@@ -29,7 +29,9 @@ Feel free to share this list with others! 🥳🥳🥳
 - **`Wayve`** Introducing GAIA-1: A Cutting-Edge Generative AI Model for Autonomy [[blog](https://wayve.ai/thinking/introducing-gaia1/)] 
   
   > World models are the basis for the ability to predict what might happen next, which is fundamentally important for autonomous driving. They can act as a learned simulator, or a mental “what if” thought experiment for model-based reinforcement learning (RL) or planning. By incorporating world models into our driving models, we can enable them to understand human decisions better and ultimately generalise to more real-world situations. -->
-  
+## 2024
+- :large_orange_diamond: **`ICLR 2024 Oral`** [**Dynalang**] Pre-Training Goal-based Models for Sample-Efficient Reinforcement Learning. [[Paper](https://openreview.net/pdf?id=o2IEmeLL9r)] [[Torch Code](https://github.com/PKU-RL/PTGM)]
+
 ## 2023
 - :large_blue_diamond: **`arXiv 2023.8`** [**Dynalang**] Learning to Model the World with Language. [[Paper](https://arxiv.org/pdf/2308.01399)] [[JAX Code](https://github.com/jlin816/dynalang)]
 
