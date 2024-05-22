@@ -30,6 +30,7 @@ Feel free to share this list with others! 🥳🥳🥳
   
   > World models are the basis for the ability to predict what might happen next, which is fundamentally important for autonomous driving. They can act as a learned simulator, or a mental “what if” thought experiment for model-based reinforcement learning (RL) or planning. By incorporating world models into our driving models, we can enable them to understand human decisions better and ultimately generalise to more real-world situations. -->
 ## 2024
+- :large_blue_diamond: **`ICLR 2024`** [**R2I**] Mastering Memory Tasks with World Models. [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - :large_orange_diamond: **`ICLR 2024 Oral`** [**PTGM**] Pre-Training Goal-based Models for Sample-Efficient Reinforcement Learning. [[Paper](https://openreview.net/pdf?id=o2IEmeLL9r)] [[Torch Code](https://github.com/PKU-RL/PTGM)]
 
 ## 2023
