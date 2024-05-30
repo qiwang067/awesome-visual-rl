@@ -39,7 +39,7 @@ Feel free to share this list with others! 🥳🥳🥳
 
 - :large_orange_diamond: **`ICCV 2023`** [**CG2A**] Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation [[Paper](https://arxiv.org/abs/2308.01194)]
 
-- :large_orange_diamond: **`NeurIPS 2023`** [**HAVE**] Hierarchical Adaptive Value Estimation for Multi-modal Visual Reinforcement Learning [[Paper](https://nips.cc/virtual/2023/poster/70701)][[Torch Code](https://github.com/Yara-HYR/HAVE)]
+- :large_orange_diamond: **`NeurIPS 2023`** [**HAVE**] Hierarchical Adaptive Value Estimation for Multi-modal Visual Reinforcement Learning [[Paper](https://NeurIPS.cc/virtual/2023/poster/70701)][[Torch Code](https://github.com/Yara-HYR/HAVE)]
 
 
 
@@ -54,11 +54,13 @@ Feel free to share this list with others! 🥳🥳🥳
 
 - :large_orange_diamond: **`ICLR 2022`** [**CLOP**] Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning [[Paper](https://openreview.net/forum?id=Sq0-tgDyHe4)][[Torch Code](https://github.com/DavidBert/CLOP)]
 
+- :large_orange_diamond: **`ICML 2022`** [**DRIBO**] DRIBO: Robust Deep Reinforcement Learning via Multi-View Information Bottleneck [[Paper](https://proceedings.mlr.press/v162/fan22b.html)][[Torch Code](https://github.com/BU-DEPEND-Lab/DRIBO)]
+
 - :large_blue_diamond: **`ICML 2022`** [**DreamerPro**] DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations
 .  [[Paper](https://proceedings.mlr.press/v162/deng22a/deng22a.pdf)][[TF Code](https://github.com/fdeng18/dreamer-pro)]
 
-- :large_blue_diamond: **`NIPS 2022`**  Deep Hierarchical Planning from Pixels.  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)][[TF Code](https://github.com/danijar/director)]
-- :large_blue_diamond: **`NIPS 2022 Spotlight`** [**Iso-Dream**] Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9316769afaaeeaad42a9e3633b14e801-Paper-Conference.pdf)][[Torch Code](https://github.com/panmt/Iso-Dream)]
+- :large_blue_diamond: **`NeurIPS 2022`**  Deep Hierarchical Planning from Pixels.  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)][[TF Code](https://github.com/danijar/director)]
+- :large_blue_diamond: **`NeurIPS 2022 Spotlight`** [**Iso-Dream**] Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9316769afaaeeaad42a9e3633b14e801-Paper-Conference.pdf)][[Torch Code](https://github.com/panmt/Iso-Dream)]
 
 
 ## 2021
@@ -73,7 +75,7 @@ Feel free to share this list with others! 🥳🥳🥳
 - :large_blue_diamond: **`ICML 2020`** [**Plan2Explore**] Planning to Explore via Self-Supervised World Models [[Paper](https://arxiv.org/pdf/2005.05960)][[TF Code](https://github.com/ramanans1/plan2explore)][[Torch Code](https://github.com/yusukeurakami/plan2explore-pytorch)]
 
 ## 2018
-- :large_blue_diamond: **`NIPS 2018 Oral`** World Models. [[Paper](https://arxiv.org/pdf/1803.10122)]
+- :large_blue_diamond: **`NeurIPS 2018 Oral`** World Models. [[Paper](https://arxiv.org/pdf/1803.10122)]
 
 <!-- ## Survey
 
