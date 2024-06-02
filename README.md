@@ -47,6 +47,8 @@ Feel free to share this list with others! 🥳🥳🥳
 
 - :large_orange_diamond: **`ICLR 2022`** [**CLOP**] Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning [[Paper](https://openreview.net/forum?id=Sq0-tgDyHe4)][[Torch Code](https://github.com/DavidBert/CLOP)]
 
+- :large_orange_diamond: **`ICML 2022`** [**A-LIX**] Stabilizing Off-Policy Deep Reinforcement Learning from Pixels [[Paper](https://arxiv.org/pdf/2207.00986)][[Torch Code](https://github.com/Aladoro/Stabilizing-Off-Policy-RL)]
+
 - :large_orange_diamond: **`ICML 2022`** [**DRIBO**] DRIBO: Robust Deep Reinforcement Learning via Multi-View Information Bottleneck [[Paper](https://proceedings.mlr.press/v162/fan22b.html)][[Torch Code](https://github.com/BU-DEPEND-Lab/DRIBO)]
 
 - :large_blue_diamond: **`ICML 2022`** [**DreamerPro**] DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations
