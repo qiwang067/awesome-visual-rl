@@ -19,6 +19,8 @@ Feel free to share this list with others! 🥳🥳🥳
 :large_blue_diamond: Model-Based &nbsp; :large_orange_diamond: Model-Free
 
 ## 2024
+- :large_orange_diamond: **`ICLR 2024`** [**DrM**] DrM: Mastering Visual Reinforcement Learning through Dormant Ratio Minimization [[Paper](https://arxiv.org/pdf/2310.19668)] 
+- :large_orange_diamond: **`ICLR 2024 Oral`** [**PTGM**] Pre-Training Goal-based Models for Sample-Efficient Reinforcement Learning. [[Paper](https://openreview.net/pdf?id=o2IEmeLL9r)] [[Torch Code](https://github.com/PKU-RL/PTGM)]
 - :large_blue_diamond: **`ICLR 2024`** [**DreamSmooth**] DreamSmooth: Improving Model-based Reinforcement Learning via Reward Smoothing. [[Paper](https://arxiv.org/pdf/2311.01450)]
 - :large_blue_diamond: **`ICLR 2024 Oral`** [**R2I**] Mastering Memory Tasks with World Models. [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - :large_orange_diamond: **`ICLR 2024 Oral`** [**PTGM**] Pre-Training Goal-based Models for Sample-Efficient Reinforcement Learning. [[Paper](https://openreview.net/pdf?id=o2IEmeLL9r)] [[Torch Code](https://github.com/PKU-RL/PTGM)]
@@ -62,8 +64,9 @@ Feel free to share this list with others! 🥳🥳🥳
 ## 2020
 - :large_blue_diamond: **`ICLR 2020`** [**DreamerV1**] Dream to Control: Learning Behaviors by Latent Imagination [[Paper](https://arxiv.org/pdf/1912.01603)][[TF Code](https://github.com/danijar/dreamer)][[Torch Code](https://github.com/juliusfrost/dreamer-pytorch)]
 
-
 - :large_blue_diamond: **`ICML 2020`** [**Plan2Explore**] Planning to Explore via Self-Supervised World Models [[Paper](https://arxiv.org/pdf/2005.05960)][[TF Code](https://github.com/ramanans1/plan2explore)][[Torch Code](https://github.com/yusukeurakami/plan2explore-pytorch)]
+
+- :large_orange_diamond: **`ICML 2020`** [**CURL**] CURL: Contrastive Unsupervised Representations for Reinforcement Learning [[Paper](https://arxiv.org/pdf/2004.04136)] [[Torch Code](https://github.com/MishaLaskin/curl)]
 
 ## 2018
 - :large_blue_diamond: **`NeurIPS 2018 Oral`** World Models. [[Paper](https://arxiv.org/pdf/1803.10122)]
