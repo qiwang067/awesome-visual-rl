@@ -1,6 +1,6 @@
 # Awesome Visual RL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![GitHub stars](https://img.shields.io/github/stars/qiwang067/awesome-visual-rl)](https://github.com/qiwang067/awesome-visual-rl/stargazers) [![GitHub forks](https://img.shields.io/github/forks/qiwang067/awesome-visual-rl)](https://github.com/qiwang067/awesome-visual-rl/network) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fqiwang067%2Fawesome-visual-rl%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a>
 
-Collect some Visual Reinforcement Learning papers. 
+This is a collection of research papers on **visual reinforcement learning (visual rl)**.
 
 If you find some ignored papers, **feel free to [*open issues*](https://github.com/qiwang067/awesome-visual-rl/issues/new), or [*email* Qi Wang](mailto:qiwang067@163.com) / [GuoZheng Ma](mailto:guozheng_ma@163.com)**. Contributions in any form to make this list more comprehensive are welcome. 📣📣📣
 
