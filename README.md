@@ -73,12 +73,12 @@ format:
       <td>
          <a href="https://github.com/qiwang067"><img width="70" height="70" src="https://github.com/qiwang067.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/qiwang067">Qi Wang</a> 
-        <p> SJTU </p>
+        <p> Shanghai Jiao Tong University </p>
       </td>
       <td>
          <a href="https://github.com/Guozheng-Ma"><img width="70" height="70" src="https://github.com/Guozheng-Ma.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/Guozheng-Ma">GuoZheng Ma</a>
-         <p>THU</p>
+         <p>Tsinghua University</p>
       </td>
     </tr>
   </tbody>
