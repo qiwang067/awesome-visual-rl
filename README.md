@@ -80,6 +80,11 @@ format:
          <a href="https://github.com/Guozheng-Ma">GuoZheng Ma</a>
          <p>Tsinghua University</p>
       </td>
+      <td>
+         <a href="https://github.com/puyuan1996"><img width="70" height="70" src="https://github.com/puyuan1996.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/puyuan1996">Yuan Pu</a>
+         <p>Shanghai Artificial Intelligence Laboratory (OpenDILab)</p>
+      </td>
     </tr>
   </tbody>
 </table>
