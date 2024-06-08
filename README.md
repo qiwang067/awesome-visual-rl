@@ -82,8 +82,8 @@ format:
       </td>
       <td>
          <a href="https://github.com/puyuan1996"><img width="70" height="70" src="https://github.com/puyuan1996.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/puyuan1996">Yuan Pu</a>
-         <p>Shanghai Artificial Intelligence Laboratory (OpenDILab)</p>
+         <a href="https://github.com/puyuan1996">Yuan Pu</a><br>
+        <a href="https://github.com/opendilab">Shanghai Artificial Intelligence Laboratory (OpenDILab)</a>
       </td>
     </tr>
   </tbody>
