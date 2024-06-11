@@ -23,21 +23,27 @@ format:
 :large_blue_diamond: Model-Based &nbsp; :large_orange_diamond: Model-Free
 
 ## 2024
-- :large_blue_diamond: **`arXiv 2024.5`** [**Puppeteer**] Hierarchical World Models as Visual Whole-Body Humanoid Controllers [[Paper](https://arxiv.org/pdf/2405.18418)] [[Torch Code](https://github.com/nicklashansen/puppeteer)]
 - :large_blue_diamond: **`ICLR 2024`** [**TD-MPC2**] TD-MPC2: Scalable, Robust World Models for Continuous Control [[Paper](https://arxiv.org/pdf/2310.16828)] [[Torch Code](https://github.com/nicklashansen/tdmpc2)] 
 - :large_orange_diamond: **`ICLR 2024`** [**DrM**] DrM: Mastering Visual Reinforcement Learning through Dormant Ratio Minimization [[Paper](https://arxiv.org/pdf/2310.19668)] 
 - :large_orange_diamond: **`ICLR 2024 Oral`** [**PTGM**] Pre-Training Goal-based Models for Sample-Efficient Reinforcement Learning [[Paper](https://openreview.net/pdf?id=o2IEmeLL9r)] [[Torch Code](https://github.com/PKU-RL/PTGM)]
 - :large_blue_diamond: **`ICLR 2024`** [**DreamSmooth**] DreamSmooth: Improving Model-based Reinforcement Learning via Reward Smoothing [[Paper](https://arxiv.org/pdf/2311.01450)]
 - :large_blue_diamond: **`ICLR 2024 Oral`** [**R2I**] Mastering Memory Tasks with World Models [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
+- :large_blue_diamond: **`ICLR 2024 Oral`** Predictive auxiliary objectives in deep RL mimic learning in the brain [[Paper](https://openreview.net/pdf?id=agPpmEgf8C)]
+- :large_orange_diamond: **`ICLR 2024 Oral`** [**METRA**] METRA: Scalable Unsupervised RL with Metric-Aware Abstraction [[Paper](https://openreview.net/pdf?id=c5pwL0Soay)] [[Torch Code](https://seohong.me/projects/metra/)]
+- :large_orange_diamond: **`ICLR 2024 Spotlight`** Selective Visual Representations Improve Convergence and Generalization for Embodied AI [[Paper](https://openreview.net/pdf?id=kC5nZDU5zf)] [[Torch Code](https://github.com/allenai/procthor-rl)]
+- :large_orange_diamond: **`ICLR 2024 Spotlight`** Towards Principled Representation Learning from Videos for Reinforcement Learning [[Paper](https://openreview.net/pdf?id=3mnWvUZIXt)] [[Torch Code](https://github.com/microsoft/Intrepid)]
+- :large_orange_diamond: **`ICLR 2024 Spotlight`** [**PULSE**] Universal Humanoid Motion Representations for Physics-Based Control [[Paper](https://openreview.net/pdf?id=OrOd8PxOO2)] [[Torch Code](https://github.com/ZhengyiLuo/PULSE)]
+- :large_blue_diamond: **`ICML 2024 Oral`** [**Dynalang**] Learning to Model the World With Language [[Paper](https://openreview.net/pdf?id=7dP6Yq9Uwv)] [[Jax Code](https://github.com/jlin816/dynalang)]
 - :large_orange_diamond: **`RLC 2024`** [**SADA**] A Recipe for Unbounded Data Augmentation in Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2405.17416)][[Torch Code](https://github.com/aalmuzairee/dmcgb2)]
+- :large_blue_diamond: **`arXiv 2024.5`** [**Puppeteer**] Hierarchical World Models as Visual Whole-Body Humanoid Controllers [[Paper](https://arxiv.org/pdf/2405.18418)] [[Torch Code](https://github.com/nicklashansen/puppeteer)]
 
 ## 2023
 
 - :large_orange_diamond: **`ICLR 2023`** [**CoIT**] On the Data-Efficiency with Contrastive Image Transformation in Reinforcement Learning [[Paper](https://openreview.net/forum?id=-nm-rHXi5ga)] [[Torch Code](https://github.com/Kamituna/CoIT)]
-- :large_orange_diamond: **`ICCV 2023`** [**CG2A**] Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation [[Paper](https://arxiv.org/abs/2308.01194)]
 - :large_orange_diamond: **`NeurIPS 2023`** [**HAVE**] Hierarchical Adaptive Value Estimation for Multi-modal Visual Reinforcement Learning [[Paper](https://NeurIPS.cc/virtual/2023/poster/70701)][[Torch Code](https://github.com/Yara-HYR/HAVE)]
 - :large_orange_diamond: **`NeurIPS 2023`** [**TACO**] TACO: Temporal Latent Action-Driven Contrastive Loss for Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2306.13229)][[Torch Code](https://github.com/frankzheng2022/taco)]
-- :large_blue_diamond: **`arXiv 2023.8`** [**Dynalang**] Learning to Model the World with Language [[Paper](https://arxiv.org/pdf/2308.01399)] [[JAX Code](https://github.com/jlin816/dynalang)]
+- :large_orange_diamond: **`NeurIPS 2023`** [**CMID**] Conditional Mutual Information for Disentangled Representations in Reinforcement Learning [[Paper](https://arxiv.org/pdf/2305.14133)][[Torch Code](https://github.com/uoe-agents/cmid)]
+- :large_orange_diamond: **`ICCV 2023`** [**CG2A**] Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation [[Paper](https://arxiv.org/abs/2308.01194)]
 - :large_blue_diamond: **`arXiv 2023.5`** [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2305.15260)]
 - :large_blue_diamond: **`arXiv 2023.1`** [**DreamerV3**] Mastering Atari with Discrete World Models [[Paper](https://arxiv.org/pdf/2301.04104)][[JAX Code](https://github.com/danijar/dreamerv3)][[Torch Code](https://github.com/NM512/dreamerv3-torch)]
 
@@ -46,11 +52,10 @@ format:
 - :large_orange_diamond: **`ICLR 2022`** [**CLOP**] Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning [[Paper](https://openreview.net/forum?id=Sq0-tgDyHe4)][[Torch Code](https://github.com/DavidBert/CLOP)]
 - :large_blue_diamond: **`ICML 2022`** [**TD-MPC**] Temporal Difference Learning for Model Predictive Control [[Paper](https://arxiv.org/pdf/2203.04955)][[Torch Code](https://github.com/nicklashansen/tdmpc)]
 - :large_orange_diamond: **`ICML 2022`** [**DRIBO**] DRIBO: Robust Deep Reinforcement Learning via Multi-View Information Bottleneck [[Paper](https://proceedings.mlr.press/v162/fan22b.html)][[Torch Code](https://github.com/BU-DEPEND-Lab/DRIBO)]
-- :large_blue_diamond: **`ICML 2022`** [**DreamerPro**] DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations
-.  [[Paper](https://proceedings.mlr.press/v162/deng22a/deng22a.pdf)][[TF Code](https://github.com/fdeng18/dreamer-pro)]
-- :large_blue_diamond: **`CoRL 2022`** [**DayDreamer**] DayDreamer: World Models for Physical Robot Learning [[Paper](https://proceedings.mlr.press/v205/wu23c/wu23c.pdf)] [[TF Code](https://github.com/danijar/daydreamer)]
+- :large_blue_diamond: **`ICML 2022`** [**DreamerPro**] DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations [[Paper](https://proceedings.mlr.press/v162/deng22a/deng22a.pdf)][[TF Code](https://github.com/fdeng18/dreamer-pro)]
 - :large_blue_diamond: **`NeurIPS 2022`**  Deep Hierarchical Planning from Pixels.  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)][[TF Code](https://github.com/danijar/director)]
 - :large_blue_diamond: **`NeurIPS 2022 Spotlight`** [**Iso-Dream**] Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9316769afaaeeaad42a9e3633b14e801-Paper-Conference.pdf)][[Torch Code](https://github.com/panmt/Iso-Dream)]
+- :large_blue_diamond: **`CoRL 2022`** [**DayDreamer**] DayDreamer: World Models for Physical Robot Learning [[Paper](https://proceedings.mlr.press/v205/wu23c/wu23c.pdf)] [[TF Code](https://github.com/danijar/daydreamer)]
 
 
 ## 2021
