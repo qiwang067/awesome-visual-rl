@@ -70,6 +70,7 @@ format:
 - :large_blue_diamond: **`NeurIPS 2018 Oral`** World Models [[Paper](https://arxiv.org/pdf/1803.10122)]
 
 ## Other Vision-Related Reinforcement Learning Papers
+## 2024
 - :large_blue_diamond: **`ICLR 2024 Oral`** Predictive auxiliary objectives in deep RL mimic learning in the brain [[Paper](https://openreview.net/pdf?id=agPpmEgf8C)]
 - :large_orange_diamond: **`ICLR 2024 Oral`** [**METRA**] METRA: Scalable Unsupervised RL with Metric-Aware Abstraction [[Paper](https://openreview.net/pdf?id=c5pwL0Soay)] [[Torch Code](https://seohong.me/projects/metra/)]
 - :large_orange_diamond: **`ICLR 2024 Spotlight`** Selective Visual Representations Improve Convergence and Generalization for Embodied AI [[Paper](https://openreview.net/pdf?id=kC5nZDU5zf)] [[Torch Code](https://github.com/allenai/procthor-rl)]
