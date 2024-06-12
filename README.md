@@ -4,7 +4,9 @@ This is a collection of research papers on **visual reinforcement learning (visu
 
 If you find some ignored papers, **feel free to [*open issues*](https://github.com/qiwang067/awesome-visual-rl/issues/new), or [*email* Qi Wang](mailto:qiwang067@163.com) / [GuoZheng Ma](mailto:guozheng_ma@163.com) / [Yuan Pu](mailto:puyuan1996@qq.com)**. Contributions in any form to make this list more comprehensive are welcome. 📣📣📣
 
-If you find this repository useful, please consider **[citing](#citation)** and **giving us a star** 🌟. 
+If you find this repository useful, please consider **giving us a star** 🌟. 
+
+<!--**[citing](#citation)** and-->
 
 Feel free to share this list with others! 🥳🥳🥳
 
