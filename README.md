@@ -33,11 +33,15 @@ format:
 - :large_orange_diamond: **`ICLR 2024 Spotlight`** [**PULSE**] Universal Humanoid Motion Representations for Physics-Based Control [[Paper](https://openreview.net/pdf?id=OrOd8PxOO2)] [[Torch Code](https://github.com/ZhengyiLuo/PULSE)]
 - :large_blue_diamond: **`ICML 2024 Oral`** [**Dynalang**] Learning to Model the World With Language [[Paper](https://openreview.net/pdf?id=7dP6Yq9Uwv)] [[JAX Code](https://github.com/jlin816/dynalang)]
 - :large_orange_diamond: **`ICML 2024`** Investigating Pre-Training Objectives for Generalization in Vision-Based Reinforcement Learning [[Paper](https://arxiv.org/pdf/2406.06037)]
+- :large_orange_diamond: **`ICML 2024`** [**BeigeMaps**] BeigeMaps: Behavioral Eigenmaps for Reinforcement Learning from Images [[Paper](https://openreview.net/pdf?id=myCgfQZzbc)]
 - :large_orange_diamond: **`RLC 2024`** [**SADA**] A Recipe for Unbounded Data Augmentation in Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2405.17416)][[Torch Code](https://github.com/aalmuzairee/dmcgb2)]
 - :large_blue_diamond: **`arXiv 2024.5`** [**Puppeteer**] Hierarchical World Models as Visual Whole-Body Humanoid Controllers [[Paper](https://arxiv.org/pdf/2405.18418)] [[Torch Code](https://github.com/nicklashansen/puppeteer)]
 
 ## 2023
 - :large_orange_diamond: **`ICLR 2023`** [**CoIT**] On the Data-Efficiency with Contrastive Image Transformation in Reinforcement Learning [[Paper](https://openreview.net/forum?id=-nm-rHXi5ga)] [[Torch Code](https://github.com/Kamituna/CoIT)]
+- :large_blue_diamond: **`ICLR 2023`** [**MoDem**] MoDem: Accelerating Visual Model-Based Reinforcement Learning with Demonstrations [[Paper](https://openreview.net/pdf?id=JdTnc9gjVfJ)] [[Torch Code](https://github.com/facebookresearch/modem)]
+- :large_orange_diamond: **`ICLR 2023`** [**TED**] Temporal Disentanglement of Representations for Improved Generalisation in Reinforcement Learning [[Paper](https://openreview.net/pdf?id=sPgP6aISLTD)] [[Torch Code](https://github.com/uoe-agents/TED)]
+- :large_orange_diamond: **`ICLR 2023 Spotlight`** [**VIP**] VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training [[Paper](https://openreview.net/pdf?id=YJ7o2wetJ2)] [[Torch Code](https://github.com/facebookresearch/vip)]
 - :large_orange_diamond: **`ICCV 2023`** [**CG2A**] Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation [[Paper](https://arxiv.org/abs/2308.01194)]
 - :large_orange_diamond: **`NeurIPS 2023`** [**HAVE**] Hierarchical Adaptive Value Estimation for Multi-modal Visual Reinforcement Learning [[Paper](https://NeurIPS.cc/virtual/2023/poster/70701)][[Torch Code](https://github.com/Yara-HYR/HAVE)]
 - :large_orange_diamond: **`NeurIPS 2023`** [**TACO**] TACO: Temporal Latent Action-Driven Contrastive Loss for Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2306.13229)][[Torch Code](https://github.com/frankzheng2022/taco)]
