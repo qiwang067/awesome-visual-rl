@@ -67,6 +67,7 @@ format:
 - :large_orange_diamond: **`NeurIPS 2022`** Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels? [[Paper](https://arxiv.org/abs/2206.05266)]
 - :large_orange_diamond: **`NeurIPS 2022`** [**A2LS**] Reinforcement Learning with Automated Auxiliary Loss Search [[Paper](https://arxiv.org/abs/2210.06041)][[Torch Code](https://seqml.github.io/a2ls/)]
 - :large_orange_diamond: **`NeurIPS 2022`** [**MLR**] Mask-based Latent Reconstruction for Reinforcement Learning [[Paper](https://arxiv.org/abs/2201.12096)][[Torch Code](https://github.com/microsoft/Mask-based-Latent-Reconstruction)]
+- :large_orange_diamond: **`NeurIPS 2022`** [**SRM**] Spectrum Random Masking for Generalization in Image-based Reinforcement Learning [[Paper](https://openreview.net/forum?id=m16lH6XJsbb)][[Torch Code](https://github.com/Yara-HYR/SRM)]
 - :large_blue_diamond: **`NeurIPS 2022`**  Deep Hierarchical Planning from Pixels.  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)][[TF Code](https://github.com/danijar/director)]
 - :large_blue_diamond: **`NeurIPS 2022 Spotlight`** [**Iso-Dream**] Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9316769afaaeeaad42a9e3633b14e801-Paper-Conference.pdf)][[Torch Code](https://github.com/panmt/Iso-Dream)]
 - :large_orange_diamond: **`TPAMI 2022`** [**M-CURL**] Masked Contrastive Representation Learning for Reinforcement Learning [[Paper](https://ieeexplore.ieee.org/abstract/document/9779589)]
@@ -75,7 +76,14 @@ format:
 
 ## 2021
 - :large_orange_diamond: **`ICLR 2021 Spotlight`** [**DrQ**] Image Augmentation Is All You Need: Regularizing Deep Reinforcement Learning from Pixels  [[Paper](https://arxiv.org/pdf/2004.13649)][[Torch Code](https://github.com/denisyarats/drq)]
+- :large_orange_diamond: **`ICLR 2021`** [**MixStyle**] Domain Generalization with MixStyle [[Paper](https://openreview.net/forum?id=6xHJ37MVxxp)][[Torch Code](https://github.com/KaiyangZhou/mixstyle-release)]
+- :large_orange_diamond: **`ICLR 2021`** [**SPR**] Data-Efficient Reinforcement Learning with Self-Predictive Representations [[Paper](https://openreview.net/forum?id=uCQfPZwRaUu&fbclid=IwAR3FMvlynXXYEMJaJzPki1x1wC9jjA3aBDC_moWxrI91hLaDvtk7nnnIXT8)][[Torch Code](https://github.com/mila-iqia/spr)]
 - :large_blue_diamond: **`ICLR 2021`** [**DreamerV2**] Mastering Atari with Discrete World Models [[Paper](https://arxiv.org/pdf/2010.02193)][[TF Code](https://github.com/danijar/dreamerv2)][[Torch Code](https://github.com/jsikyoon/dreamer-torch)]
+- :large_orange_diamond: **`ICML 2021`** [**SECANT**] Self-Expert Cloning for Zero-Shot Generalization of Visual Policies [[Paper](https://proceedings.mlr.press/v139/fan21c.html)] [[Torch Code](https://github.com/LinxiFan/SECANT)]
+- :large_orange_diamond: **`NeurIPS 2021`** [**PlayVirtual**] Augmenting Cycle-Consistent Virtual Trajectories for Reinforcement Learning [[Paper](https://proceedings.neurips.cc/paper/2021/hash/2a38a4a9316c49e5a833517c45d31070-Abstract.html)][[Torch Code](https://github.com/microsoft/Playvirtual)]
+- :large_orange_diamond: **`NeurIPS 2021`** [**EXPAND**] Widening the Pipeline in Human-Guided Reinforcement Learning with Explanation and Context-Aware Data Augmentation [[Paper](https://proceedings.neurips.cc/paper/2021/hash/b6f8dc086b2d60c5856e4ff517060392-Abstract.html)]
+- :large_orange_diamond: **`NeurIPS 2021`** [**SVEA**] Stabilizing Deep Q-Learning with ConvNets and Vision Transformers under Data Augmentation [[Paper](https://proceedings.neurips.cc/paper/2021/hash/1e0f65eb20acbfb27ee05ddc000b50ec-Abstract.html)] [[Torch Code](https://github.com/nicklashansen/dmcontrol-generalization-benchmark)]
+- :large_orange_diamond: **`NeurIPS 2021`** [**UCB-DrAC**] Automatic Data Augmentation for Generalization in Reinforcement Learning [[Paper](https://proceedings.neurips.cc/paper/2021/hash/2b38c2df6a49b97f706ec9148ce48d86-Abstract.html)] [[Torch Code](https://github.com/rraileanu/auto-drac)]
 
 ## 2020
 - :large_blue_diamond: **`ICML 2020`** [**Plan2Explore**] Planning to Explore via Self-Supervised World Models [[Paper](https://arxiv.org/pdf/2005.05960)][[TF Code](https://github.com/ramanans1/plan2explore)][[Torch Code](https://github.com/yusukeurakami/plan2explore-pytorch)]
