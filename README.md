@@ -44,8 +44,10 @@ format:
 - :large_orange_diamond: **`ICLR 2023`** [**TED**] Temporal Disentanglement of Representations for Improved Generalisation in Reinforcement Learning [[Paper](https://openreview.net/pdf?id=sPgP6aISLTD)] [[Torch Code](https://github.com/uoe-agents/TED)]
 - :large_orange_diamond: **`ICLR 2023 Spotlight`** [**VIP**] VIP: Towards Universal Visual Reward and Representation via Value-Implicit Pre-Training [[Paper](https://openreview.net/pdf?id=YJ7o2wetJ2)] [[Torch Code](https://github.com/facebookresearch/vip)]
 - :large_orange_diamond: :large_blue_diamond: **`ICML 2023 Oral`** Mastering the Unsupervised Reinforcement Learning Benchmark from Pixels [[Paper](https://openreview.net/attachment?id=eSpbTG0TZN&name=pdf)]
+- :large_orange_diamond: **`ICML 2023`** On Pre-Training for Visuo-Motor Control: Revisiting a Learning-from-Scratch Baseline [[Paper](https://proceedings.mlr.press/v202/hansen23c/hansen23c.pdf)] [[Torch Code](https://github.com/gemcollector/learning-from-scratch?tab=readme-ov-file)]
 - :large_orange_diamond: **`ICCV 2023`** [**CG2A**] Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation [[Paper](https://arxiv.org/abs/2308.01194)]
 - :large_orange_diamond: **`NeurIPS 2023`** [**HAVE**] Hierarchical Adaptive Value Estimation for Multi-modal Visual Reinforcement Learning [[Paper](https://NeurIPS.cc/virtual/2023/poster/70701)][[Torch Code](https://github.com/Yara-HYR/HAVE)]
+- :large_orange_diamond: **`NeurIPS 2023`** [**PIE-G**] Hierarchical Adaptive Value Estimation for Multi-modal Visual Reinforcement Learning [[Paper](https://NeurIPS.cc/virtual/2023/poster/70701)][[Torch Code](https://github.com/Yara-HYR/HAVE)]
 - :large_orange_diamond: **`NeurIPS 2023`** Learning Better with Less: Effective Augmentation for Sample-Efficient Visual Reinforcement Learning [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/bc26087d3f82e62044fc77752e86737e-Paper-Conference.pdf)][[Torch Code](https://github.com/Guozheng-Ma/CycAug)]
 - :large_orange_diamond: **`NeurIPS 2023`** [**TACO**] TACO: Temporal Latent Action-Driven Contrastive Loss for Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2306.13229)][[Torch Code](https://github.com/frankzheng2022/taco)]
 - :large_orange_diamond: **`NeurIPS 2023`** [**CMID**] Conditional Mutual Information for Disentangled Representations in Reinforcement Learning [[Paper](https://arxiv.org/pdf/2305.14133)][[Torch Code](https://github.com/uoe-agents/cmid)]
@@ -53,15 +55,22 @@ format:
 - :large_blue_diamond: **`arXiv 2023.5`** [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2305.15260)]
 
 ## 2022
-
+- :large_orange_diamond: **`ICLR 2022`** [**DrQ-v2**] Local Feature Swapping for Generalization in Reinforcement Learning [[Paper](https://arxiv.org/pdf/2107.09645)][[Torch Code](https://github.com/facebookresearch/drqv2)]
+- :large_orange_diamond: **`ICLR 2022`** [**CLOP**] Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning [[Paper](https://openreview.net/forum?id=Sq0-tgDyHe4)][[Torch Code](https://github.com/DavidBert/CLOP)]
 - :large_blue_diamond: **`ICML 2022`** [**TD-MPC**] Temporal Difference Learning for Model Predictive Control [[Paper](https://arxiv.org/pdf/2203.04955)][[Torch Code](https://github.com/nicklashansen/tdmpc)]
 - :large_orange_diamond: **`ICML 2022`** [**DRIBO**] DRIBO: Robust Deep Reinforcement Learning via Multi-View Information Bottleneck [[Paper](https://proceedings.mlr.press/v162/fan22b.html)][[Torch Code](https://github.com/BU-DEPEND-Lab/DRIBO)]
 - :large_blue_diamond: **`ICML 2022`** [**DreamerPro**] DreamerPro: Reconstruction-Free Model-Based Reinforcement Learning with Prototypical Representations [[Paper](https://proceedings.mlr.press/v162/deng22a/deng22a.pdf)][[TF Code](https://github.com/fdeng18/dreamer-pro)]
+- :large_orange_diamond: **`IJCAI 2022`** [**CCLF**] CCLF: A Contrastive-Curiosity-Driven Learning Framework for Sample-Efficient Reinforcement Learning [[Paper](https://arxiv.org/abs/2205.00943)]
+- :large_orange_diamond: **`IJCAI 2022`** [**TLDA**] Don’t Touch What Matters: Task-Aware Lipschitz Data Augmentation for Visual Reinforcement Learning [[Paper](https://arxiv.org/abs/2202.09982)][[Torch Code](https://github.com/gemcollector/TLDA)]
+- :large_orange_diamond: **`NeurIPS 2022`** [**PIE-G**] Pre-Trained Image Encoder for Generalizable Visual Reinforcement Learning [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/548a482d4496ce109cddfbeae5defa7d-Paper-Conference.pdf)][[Torch Code](https://github.com/gemcollector/PIE-G)]
+- :large_orange_diamond: **`NeurIPS 2022`** Efficient Scheduling of Data Augmentation for Deep Reinforcement Learning [[Paper](https://arxiv.org/abs/2102.08581)][[Torch Code](https://github.com/kbc-6723/es-da)]
+- :large_orange_diamond: **`NeurIPS 2022`** Does Self-supervised Learning Really Improve Reinforcement Learning from Pixels? [[Paper](https://arxiv.org/abs/2206.05266)]
+- :large_orange_diamond: **`NeurIPS 2022`** [**A2LS**] Reinforcement Learning with Automated Auxiliary Loss Search [[Paper](https://arxiv.org/abs/2210.06041)][[Torch Code](https://seqml.github.io/a2ls/)]
+- :large_orange_diamond: **`NeurIPS 2022`** [**MLR**] Mask-based Latent Reconstruction for Reinforcement Learning [[Paper](https://arxiv.org/abs/2201.12096)][[Torch Code](https://github.com/microsoft/Mask-based-Latent-Reconstruction)]
 - :large_blue_diamond: **`NeurIPS 2022`**  Deep Hierarchical Planning from Pixels.  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/a766f56d2da42cae20b5652970ec04ef-Paper-Conference.pdf)][[TF Code](https://github.com/danijar/director)]
 - :large_blue_diamond: **`NeurIPS 2022 Spotlight`** [**Iso-Dream**] Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9316769afaaeeaad42a9e3633b14e801-Paper-Conference.pdf)][[Torch Code](https://github.com/panmt/Iso-Dream)]
+- :large_orange_diamond: **`TPAMI 2022`** [**M-CURL**] Masked Contrastive Representation Learning for Reinforcement Learning [[Paper](https://ieeexplore.ieee.org/abstract/document/9779589)]
 - :large_blue_diamond: **`CoRL 2022`** [**DayDreamer**] DayDreamer: World Models for Physical Robot Learning [[Paper](https://proceedings.mlr.press/v205/wu23c/wu23c.pdf)] [[TF Code](https://github.com/danijar/daydreamer)]
-- :large_orange_diamond: **`ICLR 2022`** [**DrQ-v2**] Local Feature Swapping for Generalization in Reinforcement Learning [[Paper](https://arxiv.org/pdf/2107.09645)][[Torch Code](https://github.com/facebookresearch/drqv2)]
-- :large_orange_diamond: **`ICLR 2022`** [**CLOP**] Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning [[Paper](https://openreview.net/forum?id=Sq0-tgDyHe4)][[Torch Code](https://github.com/DavidBert/CLOP)]
 
 
 ## 2021
