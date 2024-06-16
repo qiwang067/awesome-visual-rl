@@ -33,6 +33,7 @@ format:
 - :large_blue_diamond: **`ICLR 2024 Oral`** [**R2I**] Mastering Memory Tasks with World Models [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - :large_orange_diamond: **`ICLR 2024 Spotlight`** [**PULSE**] Universal Humanoid Motion Representations for Physics-Based Control [[Paper](https://openreview.net/pdf?id=OrOd8PxOO2)] [[Torch Code](https://github.com/ZhengyiLuo/PULSE)]
 - :large_blue_diamond: **`ICML 2024 Oral`** [**Dynalang**] Learning to Model the World With Language [[Paper](https://openreview.net/pdf?id=7dP6Yq9Uwv)] [[JAX Code](https://github.com/jlin816/dynalang)]
+- :large_blue_diamond: **`ICML 2024`** [**HarmonyDream**] HarmonyDream: Task Harmonization Inside World Models [[Paper](https://arxiv.org/pdf/2310.00344)] [[JAX Code](https://github.com/thuml/HarmonyDream)]
 - :large_orange_diamond: **`ICML 2024`** Investigating Pre-Training Objectives for Generalization in Vision-Based Reinforcement Learning [[Paper](https://arxiv.org/pdf/2406.06037)]
 - :large_orange_diamond: **`ICML 2024`** [**BeigeMaps**] BeigeMaps: Behavioral Eigenmaps for Reinforcement Learning from Images [[Paper](https://openreview.net/pdf?id=myCgfQZzbc)]
 - :large_orange_diamond: **`RLC 2024`** [**SADA**] A Recipe for Unbounded Data Augmentation in Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2405.17416)][[Torch Code](https://github.com/aalmuzairee/dmcgb2)]
