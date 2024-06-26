@@ -73,7 +73,7 @@ format:
 - :large_blue_diamond: **`NeurIPS 2022 Spotlight`** [**Iso-Dream**] Iso-Dream: Isolating and Leveraging Noncontrollable Visual Dynamics in World Models [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/9316769afaaeeaad42a9e3633b14e801-Paper-Conference.pdf)][[Torch Code](https://github.com/panmt/Iso-Dream)]
 - :large_orange_diamond: **`TPAMI 2022`** [**M-CURL**] Masked Contrastive Representation Learning for Reinforcement Learning [[Paper](https://ieeexplore.ieee.org/abstract/document/9779589)]
 - :large_blue_diamond: **`CoRL 2022`** [**DayDreamer**] DayDreamer: World Models for Physical Robot Learning [[Paper](https://proceedings.mlr.press/v205/wu23c/wu23c.pdf)] [[TF Code](https://github.com/danijar/daydreamer)]
-- :large_blue_diamond: **`arXiv 2022`** [**DreamingV2**] DreamingV2: Reinforcement Learning with Discrete World Models without Reconstruction [[Paper](https://arxiv.org/pdf/2203.00494)] 
+- :large_blue_diamond: **`arXiv 2022.3`** [**DreamingV2**] DreamingV2: Reinforcement Learning with Discrete World Models without Reconstruction [[Paper](https://arxiv.org/pdf/2203.00494)] 
 
 
 
