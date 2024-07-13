@@ -27,8 +27,8 @@ format:
 ## 2024
 - :large_orange_diamond: **`ICLR 2024`** Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages [[Paper](https://openreview.net/pdf?id=0aR1s9YxoL)] [[Torch Code](https://github.com/Guozheng-Ma/Adaptive-Replay-Ratio)] 
 - :large_blue_diamond: **`ICLR 2024`** [**TD-MPC2**] TD-MPC2: Scalable, Robust World Models for Continuous Control [[Paper](https://arxiv.org/pdf/2310.16828)] [[Torch Code](https://github.com/nicklashansen/tdmpc2)] 
-- :large_orange_diamond: **`ICLR 2024`** [**DrM**] DrM: Mastering Visual Reinforcement Learning through Dormant Ratio Minimization [[Paper](https://arxiv.org/pdf/2310.19668)] 
 - :large_orange_diamond: **`ICLR 2024 Oral`** [**PTGM**] Pre-Training Goal-based Models for Sample-Efficient Reinforcement Learning [[Paper](https://openreview.net/pdf?id=o2IEmeLL9r)] [[Torch Code](https://github.com/PKU-RL/PTGM)]
+- :large_orange_diamond: **`ICLR 2024 Spotlight`** [**DrM**] DrM: Mastering Visual Reinforcement Learning through Dormant Ratio Minimization [[Paper](https://arxiv.org/pdf/2310.19668)] [[Torch Code](https://github.com/XuGW-Kevin/DrM)]
 - :large_blue_diamond: **`ICLR 2024`** [**DreamSmooth**] DreamSmooth: Improving Model-based Reinforcement Learning via Reward Smoothing [[Paper](https://arxiv.org/pdf/2311.01450)]
 - :large_blue_diamond: **`ICLR 2024 Oral`** [**R2I**] Mastering Memory Tasks with World Models [[Paper](http://arxiv.org/pdf/2403.04253)] [[JAX Code](https://github.com/OpenDriveLab/ViDAR)]
 - :large_orange_diamond: **`ICLR 2024 Spotlight`** [**PULSE**] Universal Humanoid Motion Representations for Physics-Based Control [[Paper](https://openreview.net/pdf?id=OrOd8PxOO2)] [[Torch Code](https://github.com/ZhengyiLuo/PULSE)]
