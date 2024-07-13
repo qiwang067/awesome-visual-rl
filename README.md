@@ -103,7 +103,7 @@ format:
 - :large_orange_diamond: **`ICLR 2024 Oral`** [**METRA**] METRA: Scalable Unsupervised RL with Metric-Aware Abstraction [[Paper](https://openreview.net/pdf?id=c5pwL0Soay)] [[Torch Code](https://seohong.me/projects/metra/)]
 - :large_orange_diamond: **`ICLR 2024 Spotlight`** Selective Visual Representations Improve Convergence and Generalization for Embodied AI [[Paper](https://openreview.net/pdf?id=kC5nZDU5zf)] [[Torch Code](https://github.com/allenai/procthor-rl)]
 - :large_orange_diamond: **`ICLR 2024 Spotlight`** Towards Principled Representation Learning from Videos for Reinforcement Learning [[Paper](https://openreview.net/pdf?id=3mnWvUZIXt)] [[Torch Code](https://github.com/microsoft/Intrepid)]
-- 
+  
 ## Technical Blog
 - [Can RL From Pixels be as Efficient as RL From State?](https://bair.berkeley.edu/blog/2020/07/19/curl-rad/)
 
