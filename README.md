@@ -37,6 +37,7 @@ format:
 - :large_orange_diamond: **`ICML 2024`** Investigating Pre-Training Objectives for Generalization in Vision-Based Reinforcement Learning [[Paper](https://arxiv.org/pdf/2406.06037)]
 - :large_orange_diamond: **`ICML 2024`** [**BeigeMaps**] BeigeMaps: Behavioral Eigenmaps for Reinforcement Learning from Images [[Paper](https://openreview.net/pdf?id=myCgfQZzbc)]
 - :large_orange_diamond: **`RLC 2024`** [**SADA**] A Recipe for Unbounded Data Augmentation in Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2405.17416)][[Torch Code](https://github.com/aalmuzairee/dmcgb2)]
+- :large_blue_diamond: **`arXiv 2024.6`** [**DLLM**] World Models with Hints of Large Language Models for Goal Achieving [[Paper](http://arxiv.org/pdf/2406.07381)]
 - :large_blue_diamond: **`arXiv 2024.5`** [**Puppeteer**] Hierarchical World Models as Visual Whole-Body Humanoid Controllers [[Paper](https://arxiv.org/pdf/2405.18418)] [[Torch Code](https://github.com/nicklashansen/puppeteer)]
 
 ## 2023
