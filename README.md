@@ -36,6 +36,7 @@ format:
 - :large_blue_diamond: **`ICML 2024`** [**HarmonyDream**] HarmonyDream: Task Harmonization Inside World Models [[Paper](https://arxiv.org/pdf/2310.00344)] [[JAX Code](https://github.com/thuml/HarmonyDream)]
 - :large_orange_diamond: **`ICML 2024`** Investigating Pre-Training Objectives for Generalization in Vision-Based Reinforcement Learning [[Paper](https://arxiv.org/pdf/2406.06037)]
 - :large_orange_diamond: **`ICML 2024`** [**BeigeMaps**] BeigeMaps: Behavioral Eigenmaps for Reinforcement Learning from Images [[Paper](https://openreview.net/pdf?id=myCgfQZzbc)]
+- :large_blue_diamond: **`NeurIPS 2024`** [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2305.15260)]
 - :large_orange_diamond: **`RLC 2024`** [**SADA**] A Recipe for Unbounded Data Augmentation in Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2405.17416)][[Torch Code](https://github.com/aalmuzairee/dmcgb2)]
 - :large_blue_diamond: **`arXiv 2024.7`** [**CarDreamer**] CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving [[Paper](https://arxiv.org/pdf/2405.09111)] [[Code](https://github.com/ucd-dare/CarDreamer)]
 - :large_blue_diamond: **`arXiv 2024.6`** [**DLLM**] World Models with Hints of Large Language Models for Goal Achieving [[Paper](http://arxiv.org/pdf/2406.07381)]
@@ -55,7 +56,6 @@ format:
 - :large_orange_diamond: **`NeurIPS 2023`** [**TACO**] TACO: Temporal Latent Action-Driven Contrastive Loss for Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2306.13229)][[Torch Code](https://github.com/frankzheng2022/taco)]
 - :large_orange_diamond: **`NeurIPS 2023`** [**CMID**] Conditional Mutual Information for Disentangled Representations in Reinforcement Learning [[Paper](https://arxiv.org/pdf/2305.14133)][[Torch Code](https://github.com/uoe-agents/cmid)]
 - :large_blue_diamond: **`arXiv 2023.1`** [**DreamerV3**] Mastering Diverse Domains through World Models [[Paper](https://arxiv.org/pdf/2301.04104)][[JAX Code](https://github.com/danijar/dreamerv3)][[Torch Code](https://github.com/NM512/dreamerv3-torch)]
-- :large_blue_diamond: **`arXiv 2023.5`** [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2305.15260)]
 
 ## 2022
 - :large_orange_diamond: **`ICLR 2022`** [**DrQ-v2**] Local Feature Swapping for Generalization in Reinforcement Learning [[Paper](https://arxiv.org/pdf/2107.09645)][[Torch Code](https://github.com/facebookresearch/drqv2)]
