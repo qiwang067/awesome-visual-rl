@@ -122,7 +122,7 @@ format:
       <td>
          <a href="https://github.com/Guozheng-Ma"><img width="70" height="70" src="https://github.com/Guozheng-Ma.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/Guozheng-Ma">GuoZheng Ma</a>
-         <p>Tsinghua University</p>
+         <p>Nanyang Technological University</p>
       </td>
       <td>
          <a href="https://github.com/puyuan1996"><img width="70" height="70" src="https://github.com/puyuan1996.png?s=40" alt="pic"></a><br>
