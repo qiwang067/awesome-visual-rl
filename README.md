@@ -39,6 +39,7 @@ format:
 - :large_blue_diamond: **`NeurIPS 2024`** [**CoWorld**] Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2305.15260)]
 - :large_orange_diamond: **`RLC 2024`** [**SADA**] A Recipe for Unbounded Data Augmentation in Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2405.17416)][[Torch Code](https://github.com/aalmuzairee/dmcgb2)]
 - :large_blue_diamond: **`IEEE IOT`** [**CarDreamer**] CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving [[Paper](https://arxiv.org/pdf/2405.09111)] [[Code](https://github.com/ucd-dare/CarDreamer)]
+- :large_blue_diamond: **`arXiv 2024.10`** [**LS-Imagine**] Open-World Reinforcement Learning over Long Short-Term Imagination [[Paper](https://arxiv.org/pdf/2410.03618)] [[Torch Code](https://github.com/qiwang067/LS-Imagine)]
 - :large_orange_diamond: **`arXiv 2024.10`** [**MENTOR**] MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2410.14972)] 
 - :large_blue_diamond: **`arXiv 2024.6`** [**DLLM**] World Models with Hints of Large Language Models for Goal Achieving [[Paper](http://arxiv.org/pdf/2406.07381)]
 - :large_blue_diamond: **`arXiv 2024.5`** [**Puppeteer**] Hierarchical World Models as Visual Whole-Body Humanoid Controllers [[Paper](https://arxiv.org/pdf/2405.18418)] [[Torch Code](https://github.com/nicklashansen/puppeteer)]
