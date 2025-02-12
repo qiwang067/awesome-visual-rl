@@ -41,7 +41,7 @@ format:
 - :large_blue_diamond: **`NeurIPS 2024`** [**GenRL**] GenRL: Multimodal-foundation world models for generalization in embodied agents [[Paper](https://arxiv.org/pdf/2406.18043)] [[Torch Code](https://github.com/mazpie/genrl)]
 - :large_orange_diamond: **`NeurIPS 2024`** [**CP3ER**] CP3ER: Generalizing Consistency Policy to Visual RL with Prioritized Proximal Experience Regularization
  [[Paper](https://arxiv.org/pdf/2410.00051)] [[Torch Code](https://github.com/jzndd/CP3ER)]
-- :large_blue_diamond: **`ICLR 2025 Oral`** [**LS-Imagine**] Open-World Reinforcement Learning over Long Short-Term Imagination [[Paper](https://arxiv.org/pdf/2410.03618)] [[Torch Code](https://github.com/qiwang067/LS-Imagine)]
+- :large_blue_diamond: **`ICLR 2025 Oral`** [**LS-Imagine**] Open-World Reinforcement Learning over Long Short-Term Imagination [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Torch Code](https://github.com/qiwang067/LS-Imagine)]
 - :large_orange_diamond: **`RLC 2024`** [**SADA**] A Recipe for Unbounded Data Augmentation in Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2405.17416)][[Torch Code](https://github.com/aalmuzairee/dmcgb2)]
 - :large_blue_diamond: **`IEEE IOT`** [**CarDreamer**] CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving [[Paper](https://arxiv.org/pdf/2405.09111)] [[Code](https://github.com/ucd-dare/CarDreamer)]
 - :large_orange_diamond: **`arXiv 2024.10`** [**MENTOR**] MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2410.14972)] 
