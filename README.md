@@ -24,6 +24,10 @@ format:
 ```
 :large_blue_diamond: Model-Based &nbsp; :large_orange_diamond: Model-Free
 
+## 2025
+- :large_blue_diamond: **`ICLR 2025 Oral`** [**LS-Imagine**] Open-World Reinforcement Learning over Long Short-Term Imagination [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Torch Code](https://github.com/qiwang067/LS-Imagine)]
+- :large_orange_diamond: **`AAAI 2025`** [**ResAct**] Visual Reinforcement Learning with Residual Action [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34097/36252)] [[Torch Code](https://github.com/LiuZhenxian123/ResAct)]
+- :large_blue_diamond: **`Nature 2025`** [**DreamerV3**] Mastering Diverse Domains through World Models [[Paper](https://www.nature.com/articles/s41586-025-08744-2.pdf)][[JAX Code](https://github.com/danijar/dreamerv3)][[Torch Code](https://github.com/NM512/dreamerv3-torch)]
 ## 2024
 - :large_orange_diamond: **`ICLR 2024`** Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages [[Paper](https://openreview.net/pdf?id=0aR1s9YxoL)] [[Torch Code](https://github.com/Guozheng-Ma/Adaptive-Replay-Ratio)] 
 - :large_blue_diamond: **`ICLR 2024`** [**TD-MPC2**] TD-MPC2: Scalable, Robust World Models for Continuous Control [[Paper](https://arxiv.org/pdf/2310.16828)] [[Torch Code](https://github.com/nicklashansen/tdmpc2)] 
@@ -41,7 +45,6 @@ format:
 - :large_blue_diamond: **`NeurIPS 2024`** [**GenRL**] GenRL: Multimodal-foundation world models for generalization in embodied agents [[Paper](https://arxiv.org/pdf/2406.18043)] [[Torch Code](https://github.com/mazpie/genrl)]
 - :large_orange_diamond: **`NeurIPS 2024`** [**CP3ER**] CP3ER: Generalizing Consistency Policy to Visual RL with Prioritized Proximal Experience Regularization
  [[Paper](https://arxiv.org/pdf/2410.00051)] [[Torch Code](https://github.com/jzndd/CP3ER)]
-- :large_blue_diamond: **`ICLR 2025 Oral`** [**LS-Imagine**] Open-World Reinforcement Learning over Long Short-Term Imagination [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Torch Code](https://github.com/qiwang067/LS-Imagine)]
 - :large_orange_diamond: **`RLC 2024`** [**SADA**] A Recipe for Unbounded Data Augmentation in Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2405.17416)][[Torch Code](https://github.com/aalmuzairee/dmcgb2)]
 - :large_blue_diamond: **`IEEE IOT`** [**CarDreamer**] CarDreamer: Open-Source Learning Platform for World Model based Autonomous Driving [[Paper](https://arxiv.org/pdf/2405.09111)] [[Code](https://github.com/ucd-dare/CarDreamer)]
 - :large_orange_diamond: **`arXiv 2024.10`** [**MENTOR**] MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2410.14972)] 
@@ -62,7 +65,6 @@ format:
 - :large_orange_diamond: **`NeurIPS 2023`** Learning Better with Less: Effective Augmentation for Sample-Efficient Visual Reinforcement Learning [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/bc26087d3f82e62044fc77752e86737e-Paper-Conference.pdf)][[Torch Code](https://github.com/Guozheng-Ma/CycAug)]
 - :large_orange_diamond: **`NeurIPS 2023`** [**TACO**] TACO: Temporal Latent Action-Driven Contrastive Loss for Visual Reinforcement Learning [[Paper](https://arxiv.org/pdf/2306.13229)][[Torch Code](https://github.com/frankzheng2022/taco)]
 - :large_orange_diamond: **`NeurIPS 2023`** [**CMID**] Conditional Mutual Information for Disentangled Representations in Reinforcement Learning [[Paper](https://arxiv.org/pdf/2305.14133)][[Torch Code](https://github.com/uoe-agents/cmid)]
-- :large_blue_diamond: **`arXiv 2023.1`** [**DreamerV3**] Mastering Diverse Domains through World Models [[Paper](https://arxiv.org/pdf/2301.04104)][[JAX Code](https://github.com/danijar/dreamerv3)][[Torch Code](https://github.com/NM512/dreamerv3-torch)]
 
 ## 2022
 - :large_orange_diamond: **`ICLR 2022`** [**DrQ-v2**] Local Feature Swapping for Generalization in Reinforcement Learning [[Paper](https://arxiv.org/pdf/2107.09645)][[Torch Code](https://github.com/facebookresearch/drqv2)]
