@@ -118,6 +118,28 @@ format:
 ## Technical Blog
 - [Can RL From Pixels be as Efficient as RL From State?](https://bair.berkeley.edu/blog/2020/07/19/curl-rad/)
 
+## Citation
+If you find this repository useful in your research, please consider giving a star ⭐ and a citation
+```bibtex
+@inproceedings{wang2024making,
+  title={Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning}, 
+  author={Qi Wang and Junming Yang and Yunbo Wang and Xin Jin and Wenjun Zeng and Xiaokang Yang},
+  booktitle={NeurIPS},
+  year={2024}
+}
+```
+
+```bibtex
+@inproceedings{li2025open,
+    title={Open-World Reinforcement Learning over Long Short-Term Imagination}, 
+    author={Jiajian Li and Qi Wang and Yunbo Wang and Xin Jin and Yang Li and Wenjun Zeng and Xiaokang Yang},
+    booktitle={ICLR},
+    year={2025}
+}
+```
+
+
+
 ## Contributors
 
 <table border="0">
