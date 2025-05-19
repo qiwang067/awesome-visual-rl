@@ -99,6 +99,7 @@ format:
 - :large_orange_diamond: **`NeurIPS 2021`** [**SVEA**] Stabilizing Deep Q-Learning with ConvNets and Vision Transformers under Data Augmentation [[Paper](https://proceedings.neurips.cc/paper/2021/hash/1e0f65eb20acbfb27ee05ddc000b50ec-Abstract.html)] [[Torch Code](https://github.com/nicklashansen/dmcontrol-generalization-benchmark)]
 - :large_orange_diamond: **`NeurIPS 2021`** [**UCB-DrAC**] Automatic Data Augmentation for Generalization in Reinforcement Learning [[Paper](https://proceedings.neurips.cc/paper/2021/hash/2b38c2df6a49b97f706ec9148ce48d86-Abstract.html)] [[Torch Code](https://github.com/rraileanu/auto-drac)]
 - :large_blue_diamond: **`ICRA 2021`** [**Dreaming**] Dreaming: Model-based Reinforcement Learning by Latent Imagination without Reconstruction [[Paper](https://arxiv.org/pdf/2007.14535)]
+- :large_blue_diamond: **`CVPR 2021`** [**VAI**] Unsupervised Visual Attention and Invariance for Reinforcement Learning [[Paper](https://arxiv.org/pdf/2104.02921)] [[Torch Code](https://github.com/TonyLianLong/VAI-ReinforcementLearning)]
 
 ## 2020
 - :large_blue_diamond: **`ICML 2020`** [**Plan2Explore**] Planning to Explore via Self-Supervised World Models [[Paper](https://arxiv.org/pdf/2005.05960)][[TF Code](https://github.com/ramanans1/plan2explore)][[Torch Code](https://github.com/yusukeurakami/plan2explore-pytorch)]
