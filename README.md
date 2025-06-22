@@ -26,7 +26,7 @@ format:
 
 ## 2025
 - :large_blue_diamond: **`ICLR 2025 Oral`** [**LS-Imagine**] Open-World Reinforcement Learning over Long Short-Term Imagination [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Torch Code](https://github.com/qiwang067/LS-Imagine)]
-- :large_blue_diamond: **`ICLR 2025 Oral`** [**MR.Q**] Towards General-Purpose Model-Free Reinforcement Learning [[Paper](https://openreview.net/pdf/f87ce86b057bcdd9534b1e2b01995b32ae7e84da.pdf)] [[Torch Code](https://github.com/facebookresearch/MRQ)]
+- :large_blue_diamond: **`ICLR 2025`** [**MR.Q**] Towards General-Purpose Model-Free Reinforcement Learning [[Paper](https://openreview.net/pdf/f87ce86b057bcdd9534b1e2b01995b32ae7e84da.pdf)] [[Torch Code](https://github.com/facebookresearch/MRQ)]
 - :large_orange_diamond: **`AAAI 2025`** [**ResAct**] Visual Reinforcement Learning with Residual Action [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34097/36252)] [[Torch Code](https://github.com/LiuZhenxian123/ResAct)]
 - :large_blue_diamond: **`Nature 2025`** [**DreamerV3**] Mastering Diverse Domains through World Models [[Paper](https://www.nature.com/articles/s41586-025-08744-2.pdf)][[JAX Code](https://github.com/danijar/dreamerv3)][[Torch Code](https://github.com/NM512/dreamerv3-torch)]
 ## 2024
