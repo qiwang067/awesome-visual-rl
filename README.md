@@ -132,6 +132,16 @@ If you find this repository useful in your research, please consider giving a st
 ```
 
 ```bibtex
+@article{ma2025comprehensive,
+  title={A comprehensive survey of data augmentation in visual reinforcement learning},
+  author={Ma, Guozheng and Wang, Zhen and Yuan, Zhecheng and Wang, Xueqian and Yuan, Bo and Tao, Dacheng},
+  journal={IJCV},
+  pages={1--38},
+  year={2025}
+}
+```
+
+```bibtex
 @inproceedings{li2025open,
     title={Open-World Reinforcement Learning over Long Short-Term Imagination}, 
     author={Jiajian Li and Qi Wang and Yunbo Wang and Xin Jin and Yang Li and Wenjun Zeng and Xiaokang Yang},
@@ -139,6 +149,7 @@ If you find this repository useful in your research, please consider giving a st
     year={2025}
 }
 ```
+
 
 
 
