@@ -122,6 +122,8 @@ format:
 
 ## Citation
 If you find this repository useful in your research, please consider giving a star ⭐ and a citation
+
+
 ```bibtex
 @inproceedings{wang2024making,
   title={Making Offline RL Online: Collaborative World Models for Offline Visual Reinforcement Learning}, 
@@ -130,7 +132,6 @@ If you find this repository useful in your research, please consider giving a st
   year={2024}
 }
 ```
-
 ```bibtex
 @article{ma2025comprehensive,
   title={A comprehensive survey of data augmentation in visual reinforcement learning},
