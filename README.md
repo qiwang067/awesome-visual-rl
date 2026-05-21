@@ -29,6 +29,7 @@ format:
 - :large_blue_diamond: **`ICLR 2025`** [**MR.Q**] Towards General-Purpose Model-Free Reinforcement Learning [[Paper](https://openreview.net/pdf/f87ce86b057bcdd9534b1e2b01995b32ae7e84da.pdf)] [[Torch Code](https://github.com/facebookresearch/MRQ)]
 - :large_orange_diamond: **`AAAI 2025`** [**ResAct**] Visual Reinforcement Learning with Residual Action [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34097/36252)] [[Torch Code](https://github.com/LiuZhenxian123/ResAct)]
 - :large_blue_diamond: **`Nature 2025`** [**DreamerV3**] Mastering Diverse Domains through World Models [[Paper](https://www.nature.com/articles/s41586-025-08744-2.pdf)][[JAX Code](https://github.com/danijar/dreamerv3)][[Torch Code](https://github.com/NM512/dreamerv3-torch)]
+- :large_blue_diamond: **`arXiv 2025.09`** [**Dreamer 4**] Training Agents Inside of Scalable World Models [[Paper](https://arxiv.org/pdf/2509.24527)]
 ## 2024
 - :large_orange_diamond: **`ICLR 2024`** Revisiting Plasticity in Visual Reinforcement Learning: Data, Modules and Training Stages [[Paper](https://openreview.net/pdf?id=0aR1s9YxoL)] [[Torch Code](https://github.com/Guozheng-Ma/Adaptive-Replay-Ratio)] 
 - :large_blue_diamond: **`ICLR 2024`** [**TD-MPC2**] TD-MPC2: Scalable, Robust World Models for Continuous Control [[Paper](https://arxiv.org/pdf/2310.16828)] [[Torch Code](https://github.com/nicklashansen/tdmpc2)] 
