@@ -25,6 +25,7 @@ format:
 :large_blue_diamond: Model-Based &nbsp; :large_orange_diamond: Model-Free
 
 ## 2025
+- :large_blue_diamond: **`NeurIPS 2025 Spotlight`** [**D.VA**] Accelerating Visual‑Policy Learning through Parallel Differentiable Simulation [[Paper](https://arxiv.org/pdf/2505.10646.pdf)] [[OpenReview](https://openreview.net/forum?id=4frj038M6W)] [[Torch Code](https://github.com/HaoxiangYou/D.VA)]
 - :large_blue_diamond: **`ICLR 2025 Oral`** [**LS-Imagine**] Open-World Reinforcement Learning over Long Short-Term Imagination [[Paper](https://openreview.net/pdf?id=vzItLaEoDa)] [[Torch Code](https://github.com/qiwang067/LS-Imagine)]
 - :large_blue_diamond: **`ICLR 2025`** [**MR.Q**] Towards General-Purpose Model-Free Reinforcement Learning [[Paper](https://openreview.net/pdf/f87ce86b057bcdd9534b1e2b01995b32ae7e84da.pdf)] [[Torch Code](https://github.com/facebookresearch/MRQ)]
 - :large_orange_diamond: **`AAAI 2025`** [**ResAct**] Visual Reinforcement Learning with Residual Action [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/34097/36252)] [[Torch Code](https://github.com/LiuZhenxian123/ResAct)]
