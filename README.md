@@ -124,6 +124,9 @@ format:
 - :large_orange_diamond: **`ICLR 2024 Spotlight`** Selective Visual Representations Improve Convergence and Generalization for Embodied AI [[Paper](https://openreview.net/pdf?id=kC5nZDU5zf)] [[Torch Code](https://github.com/allenai/procthor-rl)]
 - :large_orange_diamond: **`ICLR 2024 Spotlight`** Towards Principled Representation Learning from Videos for Reinforcement Learning [[Paper](https://openreview.net/pdf?id=3mnWvUZIXt)] [[Torch Code](https://github.com/microsoft/Intrepid)]
   
+## Libraries and Tools
+- [**VeRL-Omni**] Easy, fast, and stable RL training for diffusion and omni-modality models [[Code](https://github.com/verl-project/verl-omni)] [[Docs](https://verl-omni.readthedocs.io/en/latest/index.html)]
+
 ## Technical Blog
 - [Can RL From Pixels be as Efficient as RL From State?](https://bair.berkeley.edu/blog/2020/07/19/curl-rad/)
 
