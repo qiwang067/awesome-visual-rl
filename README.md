@@ -24,7 +24,7 @@ format:
 ```
 :large_blue_diamond: Model-Based &nbsp; :large_orange_diamond: Model-Free
 ## 2026
-- :large_blue_diamond: **`arXiv 2026`** [**SDPG**] Efficient On-policy Visual-RL via Stochastic Decoupled Policy Gradient [[Paper](https://arxiv.org/pdf/2605.26478.pdf)] 
+- :large_blue_diamond: **`CORL 2026`** [**SDPG**] Efficient On-policy Visual-RL via Stochastic Decoupled Policy Gradient [[Paper](https://arxiv.org/pdf/2605.26478.pdf)] 
 
 ## 2025
 - :large_blue_diamond: **`NeurIPS 2025 Spotlight`** [**D.VA**] Accelerating Visual‑Policy Learning through Parallel Differentiable Simulation [[Paper](https://arxiv.org/pdf/2505.10646.pdf)] [[OpenReview](https://openreview.net/forum?id=4frj038M6W)] [[Torch Code](https://github.com/HaoxiangYou/D.VA)]
